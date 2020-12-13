@@ -1,2 +1,2 @@
 # my-app
-A simple Python app to test Azure DevOps Pipelines
+A test repository for a simple Azure DevOps pipeline
